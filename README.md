@@ -1,4 +1,4 @@
-# PhyllotaxisPhyllotaxis implemented in processing
+# Phyllotaxis implemented in processing
 
 Phyllotaxis
 ---
